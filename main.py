@@ -16,13 +16,13 @@ if __name__ == "__main__":
   #wyświetl typy zadeklarowanych zmiennych
   print('zmienna a jest typu: ', type(a))
   
-  #wykonaj dzialanie potęgowania na dowolnej zmiennej 
+  #wykonaj dzialanie potęgowania na dowolnej zmiennej i wyświetl wynik
   
-  #wykonaj działanie mnożenie na dowolnej zmiennej
+  #wykonaj działanie mnożenie na dowolnej zmiennej i wyświetl wynik
   
-  #wykonaj działanie dodawania na zmiennej typu float i int
+  #wykonaj działanie dodawania na zmiennej typu float i int i wyświetl wynik
   
-  #sprawdź co zwróci operacja mnożenia zmiennej typu float i string
+  #sprawdź co zwróci operacja mnożenia zmiennej typu float i string i wyświetl wynik
   
   
   
