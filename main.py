@@ -10,7 +10,7 @@ if __name__ == "__main__":
   
   #zadeklaruj zmienną typu complex
   
-  #zadeklaruj zmienna typue string
+  #zadeklaruj zmienna typu string
   
   
   #wyświetl typy zadeklarowanych zmiennych
